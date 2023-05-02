@@ -1,0 +1,12 @@
+###Question 3
+###Which list method can be used to add a new element to a list at a specified index position?
+
+###########################
+#  list.pop(index)        #
+#  list.insert(index, x)  #
+#  list.add(index, x)     #
+#  list.append(x)         #
+###########################
+
+Answer
+list.insert(index, x)
